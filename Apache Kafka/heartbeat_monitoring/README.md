@@ -83,7 +83,7 @@ Generates 50 records, processes them, and verifies storage (expects ≥8 records
 
 
 
-## Visualizing Data Using Streamlite
+## Visualizing Data Using Streamlit
 
 Run the Streamlit dashboard:streamlit run scripts/dashboard.py
 
