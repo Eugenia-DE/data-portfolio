@@ -1,5 +1,4 @@
-.env
-
 *.log data_generator.log consumer.log test_pipeline.log
 
-venv/ *.pyc pycache/
+venv/ *.pyc pycache/.env
+logs/
